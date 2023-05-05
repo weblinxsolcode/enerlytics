@@ -1,0 +1,51 @@
+[
+    {
+    "descriptioncard1" : "Generate real-time and predictive alarms for your assets.",
+    "title": "Predictive Alerts",
+    "img1" : "5a_PredictiveAlert.png"
+},
+{
+    "descriptioncard1" : "Advance AI and ML algorithms to support your decision making.",
+    "title": "AI and ML",
+    "img1" : "5b_AIandML.png"
+},
+{
+    "descriptioncard1" : " Synchronize all your asset management on a single platform.",
+    "title": "Asset Management",
+    "img1" : "5c_AssetManagement.png"
+},
+{
+    "descriptioncard1" : "Account for and manage your energy expenses smartly.",
+    "title": "Energy Finance Management",
+    "img1" : "5d_EnergyFinManagement.png"
+},
+{
+    "descriptioncard1" : "Use energy production data to plan your carbon credits purchase.",
+    "title": "Carbon Accounting",
+    "img1" : "5e_CarbonAcc.png"
+},
+{
+    "descriptioncard1" : "Seamless synchronization with your existing architecture.",
+    "title": "Device Agnostic",
+    "img1" : "5f_DevAgnostic.png"
+},
+
+{
+    "descriptioncard1" : "Connect the energy assets you need monitoring on.",
+    "title": "Modular Design",
+    "img1" : "5g_Modular.png"
+},
+{
+    "descriptioncard1" : "Ensure no downtime due to our cloud-based architecture.",
+    "title": "Cloud-based Architecture",
+    "img1" : "5h_CloudArchitecture.png"
+},
+{
+    "listitem" : "Solar PV companies looking to implement robust performance tracking, testing and after sales user experience.",
+    "listitem2" : "Ideal of asset management companies. Looking to improve performance & availability of assets",
+    "listitem3" : "Ideal of ESCO companies. Made with M&V in mind by CMVP and ISO 50001/50002 experts.",
+    "listitem4" : "Compliance for LEED O&M certification.",
+    "listitem5" : "An excellent tool for large to medium scale industries having energy cost reduction & emissions reduction targets."
+}
+
+]
